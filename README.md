@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=330&height=30&lines=Hi+I'm+Anmol+Dube)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=330&height=30&lines=Hi+I'm+Anmol+Dube)
 ![logo](https://github.com/Anmoldube/Anmoldube/blob/master/New-file.gif)
 <h1 align="center">Hi 👋, I'm Anmol Dube</h1>
 <h3 align="center">A passionate developer from India</h3>
