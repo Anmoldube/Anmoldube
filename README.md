@@ -1,6 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=330&height=30&lines=Hi+I'm+Anmol+Dube)
 ![logo](https://github.com/Anmoldube/Anmoldube/blob/master/New-file.gif)
-<h1 align="center">Hi 👋, I'm Anmol Dube</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmoldube&label=Profile%20views&color=0e75b6&style=flat" alt="anmoldube" /> </p>
