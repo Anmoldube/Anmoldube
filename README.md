@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anmoldube.github.io/react-portfolio/](https://anmoldube.github.io/react-portfolio/)
 
-- 💬 Ask me about **React, node,php, python, SQL,etc**
+- 💬 Ask me about **React, node,php, python, SQL, etc**
 
 - 📫 How to reach me **anmoldube15@gmail.com**
 
