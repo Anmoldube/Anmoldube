@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=500&height=35&lines=Hi%2C+I'm+Anmol+Dube;Full+Stack+Developer;MERN+%7C+Spring+Boot+%7C+AI+Enthusiast;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 
+
 <h3 align="center">💻 A passionate developer from India 🇮🇳</h3>
 
 <img align="right" width="360" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
