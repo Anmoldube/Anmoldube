@@ -1,30 +1,116 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=330&height=30&lines=Hi+I'm+Anmol+Dube)
-<h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anmoldube&label=Profile%20views&color=0e75b6&style=flat" alt="anmoldube" /> </p>
-
-- 🔭 I’m currently working on **React,node,java,Ai**
-
-- 🌱 I’m currently learning **Cyber security**
-
-- 👨‍💻 All of my projects are available at [https://anmoldube.github.io/react-portfolio/](https://anmoldube.github.io/react-portfolio/)
-
-- 💬 Ask me about **React, node,php, python, SQL, etc**
-
-- 📫 How to reach me **anmoldube15@gmail.com**
-
-- ⚡ Fun fact **I m working ⚒ 😆...**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anmoldube/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anmoldube/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/anmol__dube/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anmol__dube/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/: https://auth.geeksforgeeks.org/user/anmoldube15/?utm_source=geeksforgeeks&utm_medium= my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt=": https://auth.geeksforgeeks.org/user/anmoldube15/?utm_source=geeksforgeeks&utm_medium= my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
+<!-- Profile Header with Typing SVG Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=500&height=35&lines=Hi%2C+I'm+Anmol+Dube;Full+Stack+Developer;MERN+%7C+Spring+Boot+%7C+AI+Enthusiast;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<h3 align="center">💻 A passionate developer from India 🇮🇳</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmoldube&show_icons=true&locale=en" alt="anmoldube" /></p>
+<img align="right" width="360" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmoldube&" alt="anmoldube" /></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=anmoldube&label=Profile%20views&color=0e75b6&style=flat" alt="anmoldube" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **React, Node.js, Spring Boot & AI projects**
+- 🌱 Exploring **Cybersecurity & Cloud**
+- 💬 Ask me about **MERN Stack, SQL, Java, Python, AI/ML**
+- 🏆 Awarded in **Google Cloud & Google Summer of Code contributions**
+- 🚀 Completed **Udemy ReactJS Frontend WebDev, GCP & CyberSecurity Certifications**
+- ⚡ Fun fact: *I build for fun, but optimize for performance!*
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![NextJs](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react)
+
+**Backend & DevOps**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+
+---
+
+## 🔥 Projects & Contributions
+
+- **💰 Expense Manager (MERN):** Smart financial tracking app, REST API & SSR [2024]
+- **🎬 Movie Recommendation System (ML):** Personalized recommendations using cosine similarity [2023]
+- **🍔 Burger Bun Website:** Improved UI/UX, 30% faster load, 40% automation [2023]
+- **📝 Text Analyzer (React):** Speech-to-text, case conversion, and accessibility tools [2023]
+- **💬 LAN Chat Application:** Real-time chat with Socket.IO & E2EE [2020–2021]
+
+**Links:**  
+[Portfolio](https://anmoldube.github.io/react-portfolio/)  
+[LeetCode](https://leetcode.com/)  
+[GeeksForGeeks](https://auth.geeksforgeeks.org/user/anmoldube15/)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anmoldube&show_icons" alt="GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmoldube" alt="GitHub streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmoldube&layout=compact" alt="Top languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/anmoldube" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="https://www.instagram.com/anmol__dube" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/anmoldube15" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" />
+  </a>
+  <a href="mailto:anmoldube15@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+</p>
+
+---
+
+## 🏅 Achievements
+
+- 🥇 **NCC Sergeant:** Led 15 cadets, teamwork & discipline
+- 🌍 Google Summer of Code: Boosted Zulip DAU by 40% through instant notifications
+- 🧠 Coursera ML Certificate & **Google Cybersecurity Foundations**
+- 🏃‍♂️ **Fit-India Half Marathon:** 2nd Position
+
+---
+
+✨ *“Code. Build. Break. Fix. Learn. Repeat.”* ✨
+
