@@ -1,4 +1,4 @@
-<!-- Profile Header with Typing SVG Animation (Dark/Light Support) -->
+<!-- Profile Header with Typing SVG Animation (Dark/Light Mode Support) -->
 <p align="center">
   <a href="https://github.com/anmoldube" target="_blank">
     <picture>
@@ -16,7 +16,6 @@
   <a href="https://anmoldube.github.io/react-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-111?style=for-the-badge&logo=vercel" /></a>
   <a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anmoldube&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -25,11 +24,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Working on **React, Node.js, Spring Boot & AI projects**  
-- 🌱 Learning **Cybersecurity & Cloud**  
-- 🏆 Recognized in **Google Cloud & Google Summer of Code**  
-- 🎓 Certifications: **ReactJS, GCP, Cybersecurity**  
-- ⚡ Fun fact: *I build for fun, but optimize for performance!*  
+- 🔭 Working on **React, Node.js, Spring Boot & AI projects**
+- 🌱 Learning **Cybersecurity & Cloud**
+- 🏆 Recognized in **Google Cloud & Google Summer of Code**
+- 🎓 Certifications: **ReactJS, GCP, Cybersecurity**
+- ⚡ Fun fact: *I build for fun, but optimize for performance!*
 
 ---
 
@@ -43,11 +42,11 @@
 
 ## 🔥 Projects & Contributions
 
-- **💰 Expense Manager (MERN):** Smart financial tracking app [2024]  
-- **🎬 Movie Recommender (ML):** Personalized movie recommendations [2023]  
-- **🍔 Burger Bun Website:** 30% faster load & 40% automation [2023]  
-- **📝 Text Analyzer (React):** Speech-to-text & case conversion [2023]  
-- **💬 LAN Chat Application:** Real-time chat with E2EE [2021]  
+- **💰 Expense Manager (MERN):** Smart financial tracking app 
+- **🎬 Movie Recommender (ML):** Personalized movie recommendations 
+- **🍔 Burger Bun Website:** 30% faster load & 40% automation 
+- **📝 Text Analyzer (React):** Speech-to-text & case conversion 
+- **💬 LAN Chat Application:** Real-time chat with E2EE 
 
 ---
 
@@ -68,7 +67,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anmoldube&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anmoldube&bg_color=0D1117&color=58A6FF&line=238636&point=1F6FEB&area=true&hide_border=true" alt="Activity Graph" />
 </p>
@@ -76,3 +74,4 @@
 ---
 
 ✨ *“Code. Build. Break. Fix. Learn. Repeat.”* ✨
+
